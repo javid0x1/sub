@@ -4,3 +4,8 @@ vless://c6764a6b-03cd-49f2-bdf6-687fccbf711d@20.103.221.187:443?encryption=none&
 vless://60a0090c-5b3e-421c-a365-89c7760730ed@20.103.221.187:443?encryption=none&security=tls&sni=vigilant-space-funicular-xrwj79g4pwr7hpxr6-443.app.github.dev&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=vigilant-space-funicular-xrwj79g4pwr7hpxr6-443.app.github.dev&path=%2F&mode=packet-up#G2rayXCodeLeafy%7Cdesigner2nezhad-glitch
 vless://%40IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#%40IR_NETLIFY
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=%2Fhttp#%40sexyboyvpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?
+vless://t-me-kinsta_service@91.107.179.224:47411?encryption=none&security=none&type=tcp&headerType=none
+vless://384e0806-fcee-4f92-b671-bfc6a4794148@151.101.130.219:80?encryption=none&security=none&type=ws&host=oijji.global.ssl.fastly.net&path=%2F
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.224.5:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F
+vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sid=1aab45&type=tcp&headerType=none
